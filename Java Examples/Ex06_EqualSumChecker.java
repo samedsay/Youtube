@@ -1,5 +1,3 @@
-package com.samedify.examples;
-
 /*
     Write a method "hasEqualSum" with three parameters.
     The method should return boolean and it needs to return true if the sum of the first and second parameter is equal to
