@@ -16,10 +16,10 @@ public class AreaCalculator {
 
     public static void main(String[] args) {
 
-        System.out.println(area(10));   // 314...
+        System.out.println(area(10));     // 314,15...
         System.out.println(area(4, 5));   // 20.0
-        System.out.println(area(-4));   // -1.0
-        System.out.println(area(8, -2)); // -1.0
+        System.out.println(area(-4));     // -1.0
+        System.out.println(area(8, -2));  // -1.0
 
     }
 
