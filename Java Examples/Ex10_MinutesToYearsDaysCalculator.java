@@ -20,7 +20,6 @@ public class MinutesToYearsDaysCalculator {
 
         printYearsAndDays(34164000);
 
-
     }
 
     public static void printYearsAndDays(long minutes) {
